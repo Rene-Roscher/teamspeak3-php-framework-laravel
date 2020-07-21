@@ -1,6 +1,12 @@
 <?php
 namespace TeamSpeak3\Helper;
 
+use ArrayAccess;
+use Countable;
+use Iterator;
+use JsonSerializable;
+use TeamSpeak3\TeamSpeak3;
+
 /**
  * @file
  * TeamSpeak 3 PHP Framework
